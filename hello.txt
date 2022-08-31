@@ -1,3 +1,4 @@
+helloGit master test
 helloGit
 helloGit
 helloGit
@@ -10,6 +11,5 @@ helloGit
 helloGit
 helloGit
 helloGit
-helloGit
-helloGit
+helloGit hot-fix test
 helloGit hot-fix modified
